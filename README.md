@@ -6,4 +6,4 @@ The last asset corresponds to a risk-free investment. I attempt to design a port
 (i) No single asset weighs more than 40%.
 (ii) The risk-free assets should not weigh more than 20%.
 (iii) No asset should weigh less than 5%.
-(iv) The probability of experiencing a return lower than q = −1% should be no larger than ε = 10−4.
+(iv) The probability of experiencing a return lower than q = −1% should be no larger than ε = 0.0001
