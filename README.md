@@ -1,5 +1,5 @@
 # A Portfolio Design Problem
-The returns on n = 4 assets are described by a Gaussian (normal) random vector r ∈ Rn , having the following expected value r and covariance matrix Σ:
+The returns on n = 4 assets are described by a Gaussian (normal) random vector r ∈ Rn , having expected value r and covariance matrix Σ
 
 The last asset corresponds to a risk-free investment. I attempt to design a portfolio mix with weights x ∈ Rn (each weight xi is non-negative, and the sum of the weights is one) so as to obtain the best possible expected return, while guaranteeing that:
 
